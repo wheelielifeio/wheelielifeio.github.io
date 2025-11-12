@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://https://wheelielifeio.github.io/sitemap.xml
